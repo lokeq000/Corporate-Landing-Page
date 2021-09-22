@@ -323,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
 .clients {
   padding-top: 100px;
   padding-bottom: 75px;
-  background: center no-repeat url(/img/images/Group.png);
+  background: center no-repeat url(./img/images/Group.png);
   background-size: cover;
 }
 
@@ -436,7 +436,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer {
-  background: no-repeat url(/img/images/Rectanglefooter.png);
+  background: no-repeat url(./img/images/Rectanglefooter.png);
   background-position: right;
   background-color: #323969;
 }
@@ -500,7 +500,7 @@ h1, h2, h3, h4, h5, h6 {
     display: none;
   }
   .design-desc {
-    background: no-repeat url(/img/images/Rectangle2.png);
+    background: no-repeat url(./img/images/Rectangle2.png);
     padding-right: 60px;
     padding-top: 140px;
     padding-left: 50px;
@@ -562,7 +562,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media screen and (max-width: 475px) {
   .footer {
-    background: no-repeat url(/img/images/Rectanglefooter.png);
+    background: no-repeat url(./img/images/Rectanglefooter.png);
     background-position: right;
     background-color: #323969;
   }
@@ -616,7 +616,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 30px;
   }
   .responsive {
-    background: no-repeat url(/img/images/Rectangle2.png);
+    background: no-repeat url(./img/images/Rectangle2.png);
   }
   .responsive__inner {
     display: -webkit-box;
